@@ -1,0 +1,1175 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries
+END
+H4RcLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcLoss.txt
+END
+NEGATIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/NEGATIVE.txt
+END
+HarvardPSTV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardPSTV.txt
+END
+H4CARD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4CARD.txt
+END
+H4Social.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Social.txt
+END
+H4Tool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Tool.txt
+END
+H4PowDoct.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowDoct.txt
+END
+H4IAV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4IAV.txt
+END
+H4Affil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Affil.txt
+END
+H4Work.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Work.txt
+END
+STRENGTHEN.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/STRENGTHEN.txt
+END
+H4POLIT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4POLIT.txt
+END
+H4Eval@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Eval@.txt
+END
+H4Exch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Exch.txt
+END
+H4Nation.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Nation.txt
+END
+H4Positiv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Positiv.txt
+END
+H4BodyPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4BodyPt.txt
+END
+H4Doctrin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Doctrin.txt
+END
+HarvardWEAK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardWEAK.txt
+END
+H4Means.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Means.txt
+END
+H4Quan.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Quan.txt
+END
+H4EnlTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlTot.txt
+END
+H4ABS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ABS.txt
+END
+H4PowPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowPt.txt
+END
+H4Academ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Academ.txt
+END
+H4WlbPsyc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbPsyc.txt
+END
+H4WlbGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbGain.txt
+END
+H4Region.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Region.txt
+END
+H4Increas.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Increas.txt
+END
+H4Econ@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Econ@.txt
+END
+H4ORD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ORD.txt
+END
+H4Vice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Vice.txt
+END
+H4Pain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Pain.txt
+END
+H4SocRel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SocRel.txt
+END
+H4Solve.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Solve.txt
+END
+HarvardNGTV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardNGTV.txt
+END
+H4PowTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowTot.txt
+END
+H4Perceiv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Perceiv.txt
+END
+H4Negativ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Negativ.txt
+END
+H4Relig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Relig.txt
+END
+H4TrnGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4TrnGain.txt
+END
+H4RcGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcGain.txt
+END
+H4Negate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Negate.txt
+END
+H4Submit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Submit.txt
+END
+H4SklOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SklOth.txt
+END
+H4Causal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Causal.txt
+END
+H4SklAsth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SklAsth.txt
+END
+H4DAV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4DAV.txt
+END
+H4WltPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WltPt.txt
+END
+H4Active.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Active.txt
+END
+H4No.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4No.txt
+END
+H4NatObj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4NatObj.txt
+END
+H4Milit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Milit.txt
+END
+H4Fall.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Fall.txt
+END
+H4PowEnds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowEnds.txt
+END
+H4Undrst.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Undrst.txt
+END
+H4Finish.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Finish.txt
+END
+H4AffTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4AffTot.txt
+END
+H4Intrj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Intrj.txt
+END
+H4Polit@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Polit@.txt
+END
+HarvardACTIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardACTIVE.txt
+END
+H4EnlEnds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlEnds.txt
+END
+H4IndAdj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4IndAdj.txt
+END
+H4RspTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RspTot.txt
+END
+H4Power.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Power.txt
+END
+H4SklPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SklPt.txt
+END
+H4Time@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Time@.txt
+END
+H4TIME.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4TIME.txt
+END
+H4Nonadlt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Nonadlt.txt
+END
+H4Yes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Yes.txt
+END
+H4AffPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4AffPt.txt
+END
+H4ComForm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ComForm.txt
+END
+H4Complet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Complet.txt
+END
+H4Our.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Our.txt
+END
+H4PowCon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowCon.txt
+END
+H4Arousal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Arousal.txt
+END
+H4Passive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Passive.txt
+END
+H4Fail.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Fail.txt
+END
+H4Pleasur.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Pleasur.txt
+END
+H4Strong.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Strong.txt
+END
+H4HU.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4HU.txt
+END
+H4Name.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Name.txt
+END
+H4ECON.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ECON.txt
+END
+H4Ought.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Ought.txt
+END
+HarvardSTRONG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardSTRONG.txt
+END
+H4Female.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Female.txt
+END
+H4EnlOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlOth.txt
+END
+H4WltTran.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WltTran.txt
+END
+H4WltTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WltTot.txt
+END
+H4TranLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4TranLw.txt
+END
+HarvardPOSITIV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardPOSITIV.txt
+END
+H4BldgPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4BldgPt.txt
+END
+H4Ovrst.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Ovrst.txt
+END
+H4MALE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4MALE.txt
+END
+H4PowOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowOth.txt
+END
+H4SureLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SureLw.txt
+END
+H4Rel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Rel.txt
+END
+H4PowAuth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowAuth.txt
+END
+H4Persist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Persist.txt
+END
+H4AffLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4AffLoss.txt
+END
+H4If.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4If.txt
+END
+H4NUMB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4NUMB.txt
+END
+H4POS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4POS.txt
+END
+H4DIST.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4DIST.txt
+END
+H4RspLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RspLoss.txt
+END
+H4Sky.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Sky.txt
+END
+H4PowLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowLoss.txt
+END
+H4AffOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4AffOth.txt
+END
+H4ANI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ANI.txt
+END
+HarvardNEGATIV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardNEGATIV.txt
+END
+H4Race.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Race.txt
+END
+H4WlbTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbTot.txt
+END
+H4You.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4You.txt
+END
+WEAKEN.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/WEAKEN.txt
+END
+H4PosAff.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PosAff.txt
+END
+H4RcEnds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcEnds.txt
+END
+H4RspOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RspOth.txt
+END
+H4EnlLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlLoss.txt
+END
+H4Stay.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Stay.txt
+END
+H4SklTOT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SklTOT.txt
+END
+H4Vary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Vary.txt
+END
+H4NatrPro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4NatrPro.txt
+END
+H4Compare.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Compare.txt
+END
+H4PowCoop.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowCoop.txt
+END
+H4Food.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Food.txt
+END
+H4WlbPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbPt.txt
+END
+H4Self.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Self.txt
+END
+H4RcTot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcTot.txt
+END
+H4Pstv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Pstv.txt
+END
+H4Travel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Travel.txt
+END
+H4Route.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Route.txt
+END
+H4Rise.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Rise.txt
+END
+INVERTER.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/INVERTER.txt
+END
+H4TimeSpc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4TimeSpc.txt
+END
+H4Decreas.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Decreas.txt
+END
+H4Hostile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Hostile.txt
+END
+H4Anomie.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Anomie.txt
+END
+H4DIM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4DIM.txt
+END
+H4Think.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Think.txt
+END
+H4Land.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Land.txt
+END
+H4COM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4COM.txt
+END
+H4COLOR.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4COLOR.txt
+END
+H4Try.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Try.txt
+END
+H4Vehicle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Vehicle.txt
+END
+PROFANITY.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/PROFANITY.txt
+END
+H4Kin@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Kin@.txt
+END
+H4WltOth.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WltOth.txt
+END
+H4Goal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Goal.txt
+END
+H4PLACE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PLACE.txt
+END
+H4PtLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PtLw.txt
+END
+H4NegAff.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4NegAff.txt
+END
+HarvardPASSIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/HarvardPASSIVE.txt
+END
+H4RcRelig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcRelig.txt
+END
+H4ComnObj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ComnObj.txt
+END
+H4Exert.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Exert.txt
+END
+H4Exprsv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Exprsv.txt
+END
+H4IPadj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4IPadj.txt
+END
+H4Weak.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Weak.txt
+END
+H4Quality.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Quality.txt
+END
+H4SV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4SV.txt
+END
+H4COLL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4COLL.txt
+END
+H4AffGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4AffGain.txt
+END
+H4Space.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Space.txt
+END
+H4FREQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4FREQ.txt
+END
+H4Ritual.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Ritual.txt
+END
+H4Role.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Role.txt
+END
+H4NotLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4NotLw.txt
+END
+H4RspGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RspGain.txt
+END
+H4PowGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowGain.txt
+END
+H4Abs@.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Abs@.txt
+END
+H4Object.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Object.txt
+END
+H4MeansLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4MeansLw.txt
+END
+H4FormLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4FormLw.txt
+END
+POSITIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/POSITIVE.txt
+END
+H4PowAren.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowAren.txt
+END
+H4Need.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Need.txt
+END
+H4Feel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Feel.txt
+END
+H4EnlGain.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlGain.txt
+END
+H4Ngtv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Ngtv.txt
+END
+H4Know.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Know.txt
+END
+H4Virtue.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Virtue.txt
+END
+H4RcEthic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4RcEthic.txt
+END
+H4EnlPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EnlPt.txt
+END
+H4Legal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Legal.txt
+END
+H4Begin.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Begin.txt
+END
+H4WlbLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbLoss.txt
+END
+H4Aquatic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Aquatic.txt
+END
+H4EVAL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EVAL.txt
+END
+H4WlbPhys.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4WlbPhys.txt
+END
+H4ArenaLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4ArenaLw.txt
+END
+H4Fetch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4Fetch.txt
+END
+H4EndsLw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EndsLw.txt
+END
+H4PowAuPt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4PowAuPt.txt
+END
+H4EMOT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4EMOT.txt
+END
+H4TrnLoss.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/dictionaries/H4TrnLoss.txt
+END

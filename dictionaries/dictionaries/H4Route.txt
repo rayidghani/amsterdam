@@ -1,0 +1,15 @@
+avenue
+boulevard
+crossroad
+driveway
+esplanade
+highway
+lane
+parkway
+path
+railroad
+railway
+route
+sidewalk
+street
+tunnel

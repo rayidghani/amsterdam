@@ -1,0 +1,10 @@
+bay
+breaker
+creek
+gulf
+lake
+ocean
+river
+sea
+swamp
+tide

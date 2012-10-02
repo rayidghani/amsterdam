@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard
+END
+HarvardPASSIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardPASSIVE.txt
+END
+HarvardACTIVE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardACTIVE.txt
+END
+HarvardPSTV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardPSTV.txt
+END
+HarvardSTRONG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardSTRONG.txt
+END
+HarvardNEGATIV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardNEGATIV.txt
+END
+HarvardPOSITIV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardPOSITIV.txt
+END
+HarvardNGTV.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardNGTV.txt
+END
+HarvardWEAK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/analytics/!svn/ver/28/text_analytics/trunk/svm%20scripts/dictionaries/Harvard/HarvardWEAK.txt
+END

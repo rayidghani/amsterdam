@@ -1,0 +1,10 @@
+best
+farther
+maximum
+minimal
+minimum
+more
+optimal
+uppermost
+worse
+worst
