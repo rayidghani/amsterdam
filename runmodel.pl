@@ -30,23 +30,22 @@ $result="$matrix.$classifier.result.txt";
 
 if ($classifier eq "svmperftfidf") {
  $inputfile=$matrix;
-$wordlistfile=$model."WordList.txt";
+ $wordlistfile=$model."WordList.txt";
  $SVMfileIDF=$inputfile."SVMLightIDF.txt";
-# "C:\Users\marko_krema\Documents\Visual Studio 2010\Projects\SentimentTest1\SentimentTest1\inputtmp\inputtmpDocMatrixSorted.txt" "E:\Amazon\m\global.matrix.txt.svmperftfidf.model.txt"
 
  $SVMfileMAX=$inputfile."SVMLightMAX.txt";
  
  #$wordlistcommand="perl makeWordlistIDFAndMaxFreq.pl $inputfile $wordlistfile";
 # $inputcommand = "perl MakeSVMLightFile.pl $inputfile $wordlistfile 0 $SVMfileIDF $SVMfileMAX";
- $inputcommand = "perl /home/rayid/text_classification_tool/MakeSVMLightFile.pl \"$inputfile\" \"$wordlistfile\" 0 \"$SVMfileIDF\" \"$SVMfileMAX\"";
-print $inputcommand."\n";
+ $inputcommand = "perl MakeSVMLightFile.pl \"$inputfile\" \"$wordlistfile\" 0 \"$SVMfileIDF\" \"$SVMfileMAX\"";
+ print $inputcommand."\n";
  #$modelcommand ="start /wait /realtime /b   svm_perf_learn.exe -c 100 -l 10 -w 3 $SVMfileIDF $model ";
- if ((-e "svm_perf_classify.exe") && $svmperfFlag)  {
- $runcommand="/home/rayid/text_classification_tool/svm_perf_classify \"$SVMfileIDF\"  \"$model\" \"$result\" ";
-  }
+ if ((-e "svm_perf_classify") && $svmperfFlag)  {
+  $runcommand="./svm_perf_classify \"$SVMfileIDF\"  \"$model\" \"$result\" ";
+}
   else
   {
-   $runcommand="/home/rayid/text_classification_tool/svm_perf_classify  \"$SVMfileIDF\" \"$model\"  \"$result\" ";
+   $runcommand="./svm_perf_classify  \"$SVMfileIDF\" \"$model\"  \"$result\" ";
   }
 print $runcommand."\n";
 
