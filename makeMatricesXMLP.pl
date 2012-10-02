@@ -195,9 +195,10 @@ $result = GetOptions (
 "ActiveMatrix=s" => \$activeMatrix,
 "ActiveModel=s" => \$activeModel,
 "Timestamp!" => \$timestampFlag,
-"UseAllDirectoriesFlag!" => \$useAllDirectoriesFlag);
+"UseAllDirectoriesFlag!" => \$useAllDirectoriesFlag,
 
- 
+"resultfile=s" => \$resultfile);
+
 if ($saveCleanFiles) {
 $sentenceMatrixFlag=1;
 }
@@ -760,7 +761,7 @@ $testresult=runCommand($testcommand);
 }
 
 if ($scoreModelsFlag) {
-$testcommand="perl runmodel.pl  -Features \"$fmatrixDoc\" -model \"$model\" -classifier $classifier ";
+$testcommand="perl runmodel.pl  -Features \"$fmatrixDoc\" -model \"$model\" -classifier $classifier -resultfile $resultfile";
 if ($debugFlag) {print $testcommand."\n";}
 
 $testresult=runCommand($testcommand);
