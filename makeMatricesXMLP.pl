@@ -612,8 +612,14 @@ open( XML, "<$xmlfile" ) or die "can't open $xmlfile: $!";
  while (my $row = $csv->getline (XML)) {
 
  $id=$row->[0];
- $category=$row->[2];
- $class=$category;
+ if (!($scoreModelsFlag)) {
+  $category=$row->[2];
+ }
+ else {
+  $category="negative";
+ }
+   $class=$category;
+
  $text=$row->[1];
  #print "$text\n";
  if (length($text)>$maxsizeForDocument) {next;}
